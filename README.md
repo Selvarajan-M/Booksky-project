@@ -8,9 +8,6 @@ This project is a dynamic and user-friendly book management application built us
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [HTML Code](#html-code)
-- [CSS Code](#css-code)
-- [JavaScript Code](#javascript-code)
-- [Contact](#contact)
 
 ## Introduction
 The Booksky project provides a sleek and intuitive interface for managing a collection of books. Users can easily add new books and delete existing ones, all through a user-friendly interface.
